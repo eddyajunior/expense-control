@@ -1,7 +1,5 @@
-using ExpenseControl.Application.Expenses.AppServices;
-using ExpenseControl.Application.Expenses.Interfaces;
-using ExpenseControl.Domain.Expense;
-using ExpenseControl.Domain.Expense.Interfaces;
+using ExpenseControl.API;
+using ExpenseControl.Application;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,8 +10,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddTransient<IExpenseAppService, ExpenseAppService>();
-builder.Services.AddTransient<IExpenseService, ExpenseService>();
+Ioc.Register(builder.Services);
 
 var app = builder.Build();
 
