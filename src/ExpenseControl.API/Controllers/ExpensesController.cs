@@ -17,14 +17,12 @@ namespace ExpenseControl.API.Controllers
         }
 
         [HttpPost]
+        [ProducesResponseType(typeof(ExpenseAddedResponse), StatusCodes.Status201Created)]
+        [ProducesResponseType(typeof(ExpenseAddedResponse), StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(typeof(ExpenseAddedResponse), StatusCodes.Status500InternalServerError)]
         public ActionResult<ExpenseAddedResponse> Post([FromBody] AddNewExpenseRequest request)
         {
-            _expenseAppService.AddNewExpense(request);
-
-            return new ExpenseAddedResponse
-            {
-                Success = true
-            };
+            return _expenseAppService.AddNewExpense(request);
         }
     }
 }

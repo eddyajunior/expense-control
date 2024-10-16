@@ -1,6 +1,7 @@
 ﻿using ExpenseControl.Application.Expenses.Interfaces;
 using ExpenseControl.Application.Expenses.Mappers;
 using ExpenseControl.Application.Expenses.Requests;
+using ExpenseControl.Application.Expenses.Responses;
 using ExpenseControl.Domain.Expense.Interfaces;
 
 namespace ExpenseControl.Application.Expenses.AppServices
@@ -14,10 +15,27 @@ namespace ExpenseControl.Application.Expenses.AppServices
             _expenseService = expenseService;
         }
 
-        public void AddNewExpense(AddNewExpenseRequest request)
-        {
-            var entity = ExpenseMapper.ConvertRequestToEntity(request);
-            _expenseService.AddExpense(entity);
+        public ExpenseAddedResponse AddNewExpense(AddNewExpenseRequest request)
+        {   
+            try
+            {
+                var entity = ExpenseMapper.ConvertRequestToEntity(request);
+                _expenseService.AddExpense(entity);
+
+                return new ExpenseAddedResponse
+                {
+                    Success = true
+                };
+            }
+            catch (Exception ex)
+            {
+                return new ExpenseAddedResponse
+                {
+                    Success = false,
+                    Exception = ex,
+                    Message = ex.Message
+                };
+            }
         }
     }
 }
