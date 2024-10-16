@@ -17,6 +17,8 @@ Para essa finalidade estou utilizando um projeto de controle de despesas simples
 * Clean Code
 * DDD
 
+## Autor
+[Edson Amaral](https://www.linkedin.com/in/edsonamaral/)
 
 ## Referências
 * [Clean Code](https://medium.com/desenvolvendo-com-paixao/1-clean-code-o-que-%C3%A9-porque-usar-1e4f9f4454c6)
