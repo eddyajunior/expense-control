@@ -5,11 +5,6 @@ Para essa finalidade estou utilizando um projeto de controle de despesas simples
 
 > 🚧 Projeto em construção 🚧
 
-
-## Instalação e Uso
-
-## Como usar
-
 ## ✅ Tecnologias, padrões e arquitetura
 * [.NET 8](https://dotnet.microsoft.com/pt-br/)
 * WEB API
