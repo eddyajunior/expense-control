@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Ovxjn2vbJ94zdIR/2ahRajBu9i2ZCnRKA7onXBb7t1Q=",
+  "Source": "ExpenseControl.API",
+  "BasePath": "_content/ExpenseControl.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

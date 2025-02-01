@@ -1,0 +1,12 @@
+F:\github\expense-control\src\ExpenseControl.Infrasctructure\bin\Debug\net9.0\ExpenseControl.Infrasctructure.deps.json
+F:\github\expense-control\src\ExpenseControl.Infrasctructure\bin\Debug\net9.0\ExpenseControl.Infrasctructure.dll
+F:\github\expense-control\src\ExpenseControl.Infrasctructure\bin\Debug\net9.0\ExpenseControl.Infrasctructure.pdb
+F:\github\expense-control\src\ExpenseControl.Infrasctructure\obj\Debug\net9.0\ExpenseControl.Infrasctructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\github\expense-control\src\ExpenseControl.Infrasctructure\obj\Debug\net9.0\ExpenseControl.Infrasctructure.AssemblyInfoInputs.cache
+F:\github\expense-control\src\ExpenseControl.Infrasctructure\obj\Debug\net9.0\ExpenseControl.Infrasctructure.AssemblyInfo.cs
+F:\github\expense-control\src\ExpenseControl.Infrasctructure\obj\Debug\net9.0\ExpenseControl.Infrasctructure.csproj.CoreCompileInputs.cache
+F:\github\expense-control\src\ExpenseControl.Infrasctructure\obj\Debug\net9.0\ExpenseControl.Infrasctructure.sourcelink.json
+F:\github\expense-control\src\ExpenseControl.Infrasctructure\obj\Debug\net9.0\ExpenseControl.Infrasctructure.dll
+F:\github\expense-control\src\ExpenseControl.Infrasctructure\obj\Debug\net9.0\refint\ExpenseControl.Infrasctructure.dll
+F:\github\expense-control\src\ExpenseControl.Infrasctructure\obj\Debug\net9.0\ExpenseControl.Infrasctructure.pdb
+F:\github\expense-control\src\ExpenseControl.Infrasctructure\obj\Debug\net9.0\ref\ExpenseControl.Infrasctructure.dll
