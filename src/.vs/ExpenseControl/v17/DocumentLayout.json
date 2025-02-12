@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "F:\\github\\expense-control\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4B29770-D404-4487-A536-04CE632E5D44}|ExpenseControl.API\\ExpenseControl.API.csproj|f:\\github\\expense-control\\src\\expensecontrol.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4B29770-D404-4487-A536-04CE632E5D44}|ExpenseControl.API\\ExpenseControl.API.csproj|solutionrelative:expensecontrol.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1E41C23-9C79-4BDD-AE66-E4244EE51158}|Core\\Core.csproj|f:\\github\\expense-control\\src\\core\\user\\usecases\\createnewuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E41C23-9C79-4BDD-AE66-E4244EE51158}|Core\\Core.csproj|solutionrelative:core\\user\\usecases\\createnewuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80F43451-3016-44F4-84EB-5B44B43A6D09}|ExpenseControl.Domain\\ExpenseControl.Domain.csproj|f:\\github\\expense-control\\src\\expensecontrol.domain\\user\\usecases\\createuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80F43451-3016-44F4-84EB-5B44B43A6D09}|ExpenseControl.Domain\\ExpenseControl.Domain.csproj|solutionrelative:expensecontrol.domain\\user\\usecases\\createuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1E41C23-9C79-4BDD-AE66-E4244EE51158}|Core\\Core.csproj|f:\\github\\expense-control\\src\\core\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E41C23-9C79-4BDD-AE66-E4244EE51158}|Core\\Core.csproj|solutionrelative:core\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80F43451-3016-44F4-84EB-5B44B43A6D09}|ExpenseControl.Domain\\ExpenseControl.Domain.csproj|f:\\github\\expense-control\\src\\expensecontrol.domain\\user\\usecases\\icreateuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80F43451-3016-44F4-84EB-5B44B43A6D09}|ExpenseControl.Domain\\ExpenseControl.Domain.csproj|solutionrelative:expensecontrol.domain\\user\\usecases\\icreateuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1E41C23-9C79-4BDD-AE66-E4244EE51158}|Core\\Core.csproj|f:\\github\\expense-control\\src\\core\\user\\contracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E41C23-9C79-4BDD-AE66-E4244EE51158}|Core\\Core.csproj|solutionrelative:core\\user\\contracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E41C23-9C79-4BDD-AE66-E4244EE51158}|Core\\Core.csproj|f:\\github\\expense-control\\src\\core\\user\\contracts\\usecases\\icreatenewuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E41C23-9C79-4BDD-AE66-E4244EE51158}|Core\\Core.csproj|solutionrelative:core\\user\\contracts\\usecases\\icreatenewuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E41C23-9C79-4BDD-AE66-E4244EE51158}|Core\\Core.csproj|f:\\github\\expense-control\\src\\core\\user\\dtos\\input\\createnewuserinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E41C23-9C79-4BDD-AE66-E4244EE51158}|Core\\Core.csproj|solutionrelative:core\\user\\dtos\\input\\createnewuserinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D9787B-01F8-42CF-AC52-BC09886FAF0B}|Infrastructure\\Infrastructure.csproj|f:\\github\\expense-control\\src\\infrastructure\\user\\userrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D9787B-01F8-42CF-AC52-BC09886FAF0B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\user\\userrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E41C23-9C79-4BDD-AE66-E4244EE51158}|Core\\Core.csproj|f:\\github\\expense-control\\src\\core\\user\\contracts\\iuserreporitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E41C23-9C79-4BDD-AE66-E4244EE51158}|Core\\Core.csproj|solutionrelative:core\\user\\contracts\\iuserreporitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D9787B-01F8-42CF-AC52-BC09886FAF0B}|Infrastructure\\Infrastructure.csproj|f:\\github\\expense-control\\src\\infrastructure\\user\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D9787B-01F8-42CF-AC52-BC09886FAF0B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\user\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E41C23-9C79-4BDD-AE66-E4244EE51158}|Core\\Core.csproj|f:\\github\\expense-control\\src\\core\\user\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E41C23-9C79-4BDD-AE66-E4244EE51158}|Core\\Core.csproj|solutionrelative:core\\user\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D9787B-01F8-42CF-AC52-BC09886FAF0B}|Infrastructure\\Infrastructure.csproj|f:\\github\\expense-control\\src\\infrastructure\\user\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D9787B-01F8-42CF-AC52-BC09886FAF0B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\user\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,47 +61,138 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ICreateUserUseCase.cs",
-              "DocumentMoniker": "F:\\github\\expense-control\\src\\ExpenseControl.Domain\\User\\UseCases\\ICreateUserUseCase.cs",
-              "RelativeDocumentMoniker": "ExpenseControl.Domain\\User\\UseCases\\ICreateUserUseCase.cs",
-              "ToolTip": "F:\\github\\expense-control\\src\\ExpenseControl.Domain\\User\\UseCases\\ICreateUserUseCase.cs",
-              "RelativeToolTip": "ExpenseControl.Domain\\User\\UseCases\\ICreateUserUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "CreateNewUserInput.cs",
+              "DocumentMoniker": "F:\\github\\expense-control\\src\\Core\\User\\DTOs\\Input\\CreateNewUserInput.cs",
+              "RelativeDocumentMoniker": "Core\\User\\DTOs\\Input\\CreateNewUserInput.cs",
+              "ToolTip": "F:\\github\\expense-control\\src\\Core\\User\\DTOs\\Input\\CreateNewUserInput.cs",
+              "RelativeToolTip": "Core\\User\\DTOs\\Input\\CreateNewUserInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T13:43:26.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateUserUseCase.cs",
-              "DocumentMoniker": "F:\\github\\expense-control\\src\\ExpenseControl.Domain\\User\\UseCases\\CreateUserUseCase.cs",
-              "RelativeDocumentMoniker": "ExpenseControl.Domain\\User\\UseCases\\CreateUserUseCase.cs",
-              "ToolTip": "F:\\github\\expense-control\\src\\ExpenseControl.Domain\\User\\UseCases\\CreateUserUseCase.cs",
-              "RelativeToolTip": "ExpenseControl.Domain\\User\\UseCases\\CreateUserUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T13:42:50.108Z",
+              "WhenOpened": "2025-02-12T11:59:20.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "F:\\github\\expense-control\\src\\ExpenseControl.API\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "ExpenseControl.API\\Controllers\\UsersController.cs",
-              "ToolTip": "F:\\github\\expense-control\\src\\ExpenseControl.API\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "ExpenseControl.API\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
+              "Title": "CreateNewUserUseCase.cs",
+              "DocumentMoniker": "F:\\github\\expense-control\\src\\Core\\User\\UseCases\\CreateNewUserUseCase.cs",
+              "RelativeDocumentMoniker": "Core\\User\\UseCases\\CreateNewUserUseCase.cs",
+              "ToolTip": "F:\\github\\expense-control\\src\\Core\\User\\UseCases\\CreateNewUserUseCase.cs",
+              "RelativeToolTip": "Core\\User\\UseCases\\CreateNewUserUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T12:59:04.514Z",
+              "WhenOpened": "2025-02-12T11:58:07.993Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICreateNewUserUseCase.cs",
+              "DocumentMoniker": "F:\\github\\expense-control\\src\\Core\\User\\Contracts\\UseCases\\ICreateNewUserUseCase.cs",
+              "RelativeDocumentMoniker": "Core\\User\\Contracts\\UseCases\\ICreateNewUserUseCase.cs",
+              "ToolTip": "F:\\github\\expense-control\\src\\Core\\User\\Contracts\\UseCases\\ICreateNewUserUseCase.cs",
+              "RelativeToolTip": "Core\\User\\Contracts\\UseCases\\ICreateNewUserUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:57:51.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "F:\\github\\expense-control\\src\\Core\\User\\UserService.cs",
+              "RelativeDocumentMoniker": "Core\\User\\UserService.cs",
+              "ToolTip": "F:\\github\\expense-control\\src\\Core\\User\\UserService.cs",
+              "RelativeToolTip": "Core\\User\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:30:22.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "F:\\github\\expense-control\\src\\Core\\User\\Contracts\\IUserService.cs",
+              "RelativeDocumentMoniker": "Core\\User\\Contracts\\IUserService.cs",
+              "ToolTip": "F:\\github\\expense-control\\src\\Core\\User\\Contracts\\IUserService.cs",
+              "RelativeToolTip": "Core\\User\\Contracts\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:30:16.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepositoryImpl.cs",
+              "DocumentMoniker": "F:\\github\\expense-control\\src\\Infrastructure\\User\\UserRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\User\\UserRepositoryImpl.cs",
+              "ToolTip": "F:\\github\\expense-control\\src\\Infrastructure\\User\\UserRepositoryImpl.cs",
+              "RelativeToolTip": "Infrastructure\\User\\UserRepositoryImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:27:46.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserReporitory.cs",
+              "DocumentMoniker": "F:\\github\\expense-control\\src\\Core\\User\\Contracts\\IUserReporitory.cs",
+              "RelativeDocumentMoniker": "Core\\User\\Contracts\\IUserReporitory.cs",
+              "ToolTip": "F:\\github\\expense-control\\src\\Core\\User\\Contracts\\IUserReporitory.cs",
+              "RelativeToolTip": "Core\\User\\Contracts\\IUserReporitory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:26:54.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserMapper.cs",
+              "DocumentMoniker": "F:\\github\\expense-control\\src\\Infrastructure\\User\\UserMapper.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\User\\UserMapper.cs",
+              "ToolTip": "F:\\github\\expense-control\\src\\Infrastructure\\User\\UserMapper.cs",
+              "RelativeToolTip": "Infrastructure\\User\\UserMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:43:57.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "F:\\github\\expense-control\\src\\Infrastructure\\User\\UserModel.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\User\\UserModel.cs",
+              "ToolTip": "F:\\github\\expense-control\\src\\Infrastructure\\User\\UserModel.cs",
+              "RelativeToolTip": "Infrastructure\\User\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T22:55:04.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "F:\\github\\expense-control\\src\\Core\\User\\UserEntity.cs",
+              "RelativeDocumentMoniker": "Core\\User\\UserEntity.cs",
+              "ToolTip": "F:\\github\\expense-control\\src\\Core\\User\\UserEntity.cs",
+              "RelativeToolTip": "Core\\User\\UserEntity.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T22:34:10.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
